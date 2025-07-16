@@ -12,10 +12,11 @@
 🔭 I’m currently working on React + Backend Projects<br><br>
 🌱 I’m currently learning Web dev and DSA<br><br>
 📫 Reach me at: yashlawaniya2804@gmail.com<br><br>
-📄 Know about my experiences: [My Portfolio](https://yashlawaniyaportfolio.netlify.app/)<br>
+📄 Know about my experiences: [My Portfolio](https://yashlawaniyaportfolio.netlify.app/)
 </p>
+<br>
+<br>
 
----
 
 ### 📫 Connect with me:
 <p align="left">
@@ -23,7 +24,8 @@
 <a href="mailto:yashlawaniya2804@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat" alt="gmail" /></a>
 </p>
 
----
+<br>
+<br>
 
 ### 💻 Languages and Tools:
 <p align="left">
