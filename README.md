@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Lawaniya</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
-<!--
-**Yashlawaniya/Yashlawaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+🔭 I’m currently working on **React + Backend Projects**<br>
+🌱 I’m currently learning **Java, DSA & MERN stack**<br>
+📫 Reach me at: yashlawaniya2804@gmail.com<br>
+📄 Know about my experiences: [My Portfolio](https://yashlawaniyaportfolio.netlify.app/)
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/yashlawaniyadev" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" alt="linkedin" /></a>
+<a href="mailto:yashlawaniya2804@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat" alt="gmail" /></a>
+</p>
+
+---
+
+### 💻 Languages and Tools:
+<p align="left">
+   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript"/>
+   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" title="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" title="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" title="Tailwind CSS"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
+</p>
+
+
+
