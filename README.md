@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Lawaniya</h1>
-<h3 align="center">A passionate full-stack developer from India</h3><br><br>
+<h3 align="center">A passionate full-stack developer from India</h3><br>
 <img align="right" alt="Coder GIF" width="300" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" />
-
-
-
-
 
 
 
@@ -14,18 +10,12 @@
 📫 Reach me at: yashlawaniya2804@gmail.com<br><br>
 📄 Know about my experiences: [My Portfolio](https://yashlawaniyaportfolio.netlify.app/)
 </p>
-<br>
-<br>
-
 
 ### 📫 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/yashlawaniyadev" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" alt="linkedin" /></a>
 <a href="mailto:yashlawaniya2804@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat" alt="gmail" /></a>
 </p>
-
-<br>
-<br>
 
 ### 💻 Languages and Tools:
 <p align="left">
